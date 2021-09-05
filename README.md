@@ -1,7 +1,7 @@
 ## React Weather App Find app linke https://weather-project-week4.netlify.app/
 ### Work With Weather Api adding cities as you want 
 <img width="625" alt="Screen Shot 2021-09-05 at 8 33 31 PM" src="https://user-images.githubusercontent.com/72751605/132139784-d06bc322-bf76-4366-85fd-38f8f3c1d312.png">
-### you can also display 5 Days Forcast for the city using react routs and hooks
+# you can also display 5 Days Forcast for the city using react routs and hooks
 <img width="1392" alt="Screen Shot 2021-09-05 at 8 32 46 PM" src="https://user-images.githubusercontent.com/72751605/132139815-0589971a-51b1-4159-b8e9-67ebd64208a2.png">
 
 # Getting Started with Create React App
