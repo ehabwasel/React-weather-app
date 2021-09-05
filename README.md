@@ -3,7 +3,8 @@
 <img width="1436" alt="Screen Shot 2021-09-05 at 10 54 01 PM" src="https://user-images.githubusercontent.com/72751605/132141192-bec129b7-85dc-403f-b49f-25813948e795.png">
 
 #### you can also display 5 Days Forcast for the city using react routs and hooks
-![Uploading Screen Shot 2021-09-05 at 10.54.01 PM.png…]()
+<img width="1352" alt="Screen Shot 2021-09-05 at 8 32 38 PM" src="https://user-images.githubusercontent.com/72751605/132141216-31df2a30-7508-49b2-9f19-6b8291942727.png">
+
 
 
 # Getting Started with Create React App
